@@ -29,7 +29,7 @@
 
 ## Instalação
 ```bash
-git clone --depth=1 https://github.com/Artemiz-TK/tree ~/arvore
+git clone --depth=1 https://github.com/Artemiz-TK/tree.git ~/arvore
 ~/arvore/bin/arvore.exe
 ```
 
