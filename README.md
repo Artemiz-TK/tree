@@ -16,15 +16,14 @@
 │   └── arvore.exe
 ├── include
 │   └── center.h
-├── main.c
 ├── obj
 │   ├── center.o
 │   └── main.o
 ├── src
 │   └── center.c
 ├── LICENSE.txt
-├── main.c
-└── README.md
+├── README.md
+└── main.c
 ```
 
 ## Instalação
