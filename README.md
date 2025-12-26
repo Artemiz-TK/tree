@@ -29,6 +29,7 @@
 ## Instalação
 ```bash
 git clone --depth=1 https://github.com/Artemiz-TK/tree.git ~/arvore
+clear # cls se estiver no windows
 ~/arvore/bin/arvore.exe
 ```
 
